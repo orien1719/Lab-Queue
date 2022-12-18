@@ -1,1 +1,1 @@
-# Lab-Queue
+# Queue
